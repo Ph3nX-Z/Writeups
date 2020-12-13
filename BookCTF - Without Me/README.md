@@ -51,6 +51,7 @@ __Apres avoir decouvert tous ce qu'ont echangées les deux machines durant leurs
 ### Script
 
 __Etant donné que toutes les lignes se ressemblent j'ai ecrit un script en python qui permet de trouver la ligne qui a exactement le format voulu (BOOKCTF{...}).__
+
 __C'est pas super propre, mais ca marche.__
 
 ----------------------------------------------------------------------------------------------------------
