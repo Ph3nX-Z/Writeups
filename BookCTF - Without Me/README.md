@@ -1,7 +1,7 @@
 # BookCTF - Without Me 
 ----------------------------------------------------------------------------------------------------------
 ## Introduction
-__Salut tout le monde,
+__Salut,
 "Without Me" est le nom du 3ème CTF de la partie MISC. 
 Je vais te montrer comment j'ai resolu ce CTF :)__
 
