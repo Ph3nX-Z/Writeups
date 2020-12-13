@@ -40,7 +40,7 @@ __La premiere chose a faire est de suivre le flux tcp pour voir ce qui s'y est p
 
 ----------------------------------------------------------------------------------------------------------
 
-__Apres avoir decouvert tous ce qu'on echangée les deux machines pendant l'echange, je me rend compte ... que c'est un piege, puisque il y a plusieurs centaines de fois des choses differentes mais ressemblant a des flags. Je sauvegarde le tout dans un fichier texte et je passe a l'etape d'apres.__
+__Apres avoir decouvert tous ce qu'ont echangées les deux machines durant leurs communication, je me rend compte ... que c'est un piege, puisque il y a plusieurs centaines de fois des choses differentes mais ressemblant a des flags. Je sauvegarde le tout dans un fichier texte et je passe a l'etape d'apres.__
 
 ----------------------------------------------------------------------------------------------------------
 ![](readme8.PNG)
