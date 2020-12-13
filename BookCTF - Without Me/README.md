@@ -9,8 +9,8 @@ Je vais te montrer comment j'ai resolu ce CTF :)__
 
 |Partie| Lien |Difficulté|
 |------|------|----------|
-|Preparation| | Easy |
-|Exploitation| | Medium |
+|Preparation| [Preparation](https://github.com/Ph3nX-Z/Writeups/blob/main/BookCTF%20-%20Without%20Me/README.md#preparations) | Easy |
+|Exploitation| [Exploiration]() | Medium |
 
 
 
