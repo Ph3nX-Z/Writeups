@@ -24,7 +24,7 @@ PS: Le writeup rend mieux en theme github sombre ^^
 
 ### Outil
 
-__La premiere chose que nous remarquons est, que le fichier est sous la forme pcapng. In fichier de capture reseau qui peut etre ouvert grace a wireshark.__
+__La premiere chose que nous remarquons est, que le fichier est sous la forme pcapng. Un fichier de capture reseau qui peut etre ouvert grace a wireshark.__
 
 __On ouvre le fichier et on tombe sur beaucoup de trames dont trois trames de handshake TCP (SYN - SYN/ACK - ACK) qui nous prouvent qu'une connexion entre deux machines a été effectuée.__
 
