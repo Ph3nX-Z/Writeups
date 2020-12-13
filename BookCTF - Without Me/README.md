@@ -25,18 +25,21 @@ __On ouvre le fichier et on tombe sur beaucoup de trames dont trois trames de ha
 
 ----------------------------------------------------------------------------------------------------------
 ![](readme1.PNG)
+
 ----------------------------------------------------------------------------------------------------------
 
 __La premiere chose a faire est de suivre le flux tcp pour voir ce qui s'y est passé (follow tcp), soit en faisant un click droit sur une trame et en faisant "follow tcp" soit en mettant en place le filtre : tcp.stream eq 0.__
 
 ----------------------------------------------------------------------------------------------------------
 ![](readme2.PNG)
+
 ----------------------------------------------------------------------------------------------------------
 
 __Apres avoir decouvert tous ce qu'on echangée les deux machines pendant l'echange, je me rend compte ... que c'est un piege, puisque il y a plusieurs centaines de fois des choses differentes mais ressemblant a des flags. Je sauvegarde le tout dans un fichier texte et je passe a l'etape d'apres.__
 
 ----------------------------------------------------------------------------------------------------------
 ![](readme8.PNG)
+
 ----------------------------------------------------------------------------------------------------------
 ## Exploitation
 
@@ -45,18 +48,21 @@ __Etant donné que toutes les lignes se ressemblent j'ai ecrit un script en pyth
 
 ----------------------------------------------------------------------------------------------------------
 ![](readme4.PNG)
+
 ----------------------------------------------------------------------------------------------------------
 
 __Je run le script et ... il me sort trois lignes qui sont potentiellement des flags !__
 
 ----------------------------------------------------------------------------------------------------------
 ![](readme5.PNG)
+
 ----------------------------------------------------------------------------------------------------------
 
 __Je fais un autre programme qui tire le flag au hasard dans le fichier.__
 
 ----------------------------------------------------------------------------------------------------------
 ![](readme6.PNG)
+
 ----------------------------------------------------------------------------------------------------------
 
 __Et c'est le bon flag !__
