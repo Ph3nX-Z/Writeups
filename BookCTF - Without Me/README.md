@@ -18,6 +18,8 @@ Je vais te montrer comment j'ai resolu ce CTF :)__
 
 ## Preparations
 
+
+
 ### Outil
 
 __La premiere chose que nous remarquons est, que le fichier est sous la forme pcapng. In fichier de capture reseau qui peut etre ouvert grace a wireshark.__
@@ -67,8 +69,11 @@ __Je fais un autre programme qui tire le flag au hasard dans le fichier.__
 
 ----------------------------------------------------------------------------------------------------------
 
+
 __Et c'est le bon flag !__
 __Et voila comment j'ai resolu ce challenge, et peut etre comme d'autre l'ont resolu.__
+
+
 
 ## Merci d'avoir lu ce writeup
 
