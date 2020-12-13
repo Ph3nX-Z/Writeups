@@ -19,6 +19,7 @@ Je vais te montrer comment j'ai resolu ce CTF :)__
 ## Preparations
 
 ### Outil
+
 __La premiere chose que nous remarquons est, que le fichier est sous la forme pcapng. In fichier de capture reseau qui peut etre ouvert grace a wireshark.__
 
 __On ouvre le fichier et on tombe sur beaucoup de trames dont trois trames de handshake TCP (SYN - SYN/ACK - ACK) qui nous prouvent qu'une connexion entre deux machines a été effectuée.__
@@ -44,6 +45,7 @@ __Apres avoir decouvert tous ce qu'on echangée les deux machines pendant l'echa
 ## Exploitation
 
 ### Script
+
 __Etant donné que toutes les lignes se ressemblent j'ai ecrit un script en python qui permet de trouver la ligne qui a exactement le format voulu (BOOKCTF{...}).__
 
 ----------------------------------------------------------------------------------------------------------
