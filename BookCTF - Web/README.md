@@ -30,7 +30,6 @@ Il fallait juste regarder le code source de la page index !
 ![](web0.PNG)
 
 ---------------------------------------------------------------
----------------------------------------------------------------
 
 ## Web1
 
@@ -43,7 +42,7 @@ On renseigne donc le parametre avec 1:
 ![](web1.PNG)
 
 ---------------------------------------------------------------
----------------------------------------------------------------
+
 
 ## Web2
 
@@ -64,7 +63,7 @@ Nous pouvons voir qu'il y a un fichier dont le nom est plutot long, j'ai donc co
 Et voila le flag !
 
 ---------------------------------------------------------------
----------------------------------------------------------------
+
 
 ## Web5
 
@@ -81,7 +80,7 @@ J'essaye alors de passer la chaine hex a une chaine en ascii.
 Et voila le contenu du flag !
 
 ---------------------------------------------------------------
----------------------------------------------------------------
+
 
 ## Web7
 
@@ -99,7 +98,7 @@ Je vais ensuite decoder la chaine trouvée pour avoir le code de la page php en 
 Et voila le flag !
 
 ---------------------------------------------------------------
----------------------------------------------------------------
+
 
 ## Hellfy
 
