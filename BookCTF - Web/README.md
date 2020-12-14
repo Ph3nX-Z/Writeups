@@ -9,7 +9,7 @@ Ce writeup est un condensé de plusieurs CTFs web provenant du challenge BOOKCTF
 
 Bonne Lecture :)
 
-===============================================
+---------------------------------------------------------------
 
 ## Web0
 
@@ -17,7 +17,8 @@ Il fallait juste regarder le code source de la page index !
 
 ![](web0.PNG)
 
-===============================================
+---------------------------------------------------------------
+---------------------------------------------------------------
 
 ## Web1
 
@@ -29,7 +30,8 @@ On renseigne donc le parametre avec 1:
 
 ![](web1.PNG)
 
-===============================================
+---------------------------------------------------------------
+---------------------------------------------------------------
 
 ## Web2
 
@@ -49,7 +51,8 @@ Nous pouvons voir qu'il y a un fichier dont le nom est plutot long, j'ai donc co
 
 Et voila le flag !
 
-===============================================
+---------------------------------------------------------------
+---------------------------------------------------------------
 
 ## Web5
 
@@ -65,7 +68,8 @@ J'essaye alors de passer la chaine en hex a une chaine en ascii.
 
 Et voila le contenu du flag !
 
-===============================================
+---------------------------------------------------------------
+---------------------------------------------------------------
 
 ## Web7
 
@@ -81,6 +85,9 @@ Je vais ensuite decoder la chaine trouvée pour avoir le code de la page php en 
 ![](web72.PNG)
 
 Et voila le flag !
+
+---------------------------------------------------------------
+---------------------------------------------------------------
 
 ## Hellfy
 
@@ -101,7 +108,7 @@ Lorsqu'on lis le code de index.php on remarque qu'une autre page est evoquée : 
 
 Et encore une fois le code de config.php est en commentaire (caché). Et si on regarde bien le code, on peut voir notre flag !
 
-===============================================
-===============================================
+---------------------------------------------------------------
+---------------------------------------------------------------
 
 # Merci D'avoir lu ce writeup
