@@ -100,4 +100,4 @@ Apres avoir changé le header j'ouvre l'image, et je tombe sur le flag !
 
 ## Merci d'avoir lu ce writeup et A+
 
-![](good.png)
+![](good.jpg)
