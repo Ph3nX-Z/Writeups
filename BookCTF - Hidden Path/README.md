@@ -1,9 +1,23 @@
 # BookCTF - Hidden Path
 
+----------------------------------------------------------------------
+
 ## Introduction
 
 Salut, Hidden_path est le nom du deuxieme ctf de la partie MISC du concour BOOKCTF.
 Je vais te montrer comment je l'ai resolu :)
+
+----------------------------------------------------------------------
+
+## Sommaire
+
+|Partie| Lien |Difficulté|
+|------|------|----------|
+|Zip Cracking| [Zip Cracking](https://github.com/Ph3nX-Z/Writeups/tree/main/BookCTF%20-%20Hidden%20Path#zip-cracking) | Easy |
+|Steganography| [Steganography](https://github.com/Ph3nX-Z/Writeups/tree/main/BookCTF%20-%20Hidden%20Path#steganography) | Medium |
+|Recovery | [Recovery](https://github.com/Ph3nX-Z/Writeups/tree/main/BookCTF%20-%20Hidden%20Path#recovery) | Medium |
+
+----------------------------------------------------------------------
 
 ## Resolution
 
