@@ -62,7 +62,7 @@ Lorsque l'on regarde ce code, on se rend compte que le flag y est, mais sous for
 
 ![](web51.PNG)
 
-J'essaye alors de passer la chaine en hex a une chaine en ascii.
+J'essaye alors de passer la chaine hex a une chaine en ascii.
 
 ![](web52.PNG)
 
