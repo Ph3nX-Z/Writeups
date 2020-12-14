@@ -10,6 +10,18 @@ Ce writeup est un condensé de plusieurs CTFs web provenants du challenge BOOKCT
 Bonne Lecture :)
 
 ---------------------------------------------------------------
+## Sommaire
+
+|Partie| Lien |Difficulté|
+|------|------|----------|
+|web0| [Web0](https://github.com/Ph3nX-Z/Writeups/tree/main/BookCTF%20-%20Web#web0) | Easy |
+|web1| [web1](https://github.com/Ph3nX-Z/Writeups/tree/main/BookCTF%20-%20Web#web1) | Easy |
+|web2| [web2](https://github.com/Ph3nX-Z/Writeups/tree/main/BookCTF%20-%20Web#web2) | Easy |
+|web5| [web5](https://github.com/Ph3nX-Z/Writeups/tree/main/BookCTF%20-%20Web#web5) | Easy |
+|web7| [web7](https://github.com/Ph3nX-Z/Writeups/tree/main/BookCTF%20-%20Web#web7) | Easy |
+|Hellfy| [Hellfy](https://github.com/Ph3nX-Z/Writeups/tree/main/BookCTF%20-%20Web#hellfy) | Easy |
+
+---------------------------------------------------------------
 
 ## Web0
 
