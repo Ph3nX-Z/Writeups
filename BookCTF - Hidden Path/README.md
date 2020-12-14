@@ -91,6 +91,13 @@ On va alors changer le header du fichier pour le bon !
 
 Apres avoir changé le header j'ouvre l'image, et je tombe sur le flag !
 
+----------------------------------------------------------------------
+
+![](11.png)
+
+----------------------------------------------------------------------
+
+
 ## Merci d'avoir lu ce writeup et A+
 
-![good.png]
+![](good.png)
