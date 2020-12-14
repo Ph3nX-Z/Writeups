@@ -5,7 +5,7 @@
 
 ## Introduction
 
-Ce writeup est un condensé de plusieurs CTFs web provenant du challenge BOOKCTF.
+Ce writeup est un condensé de plusieurs CTFs web provenants du challenge BOOKCTF.
 
 Bonne Lecture :)
 
